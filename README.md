@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👉 [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai) | [管理](https://github.com/zhanglingx?tab=repositories&q=management) | [商业](https://github.com/zhanglingx?tab=repositories&q=business)
+
+
 <!--
 **zhanglingx/zhanglingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
