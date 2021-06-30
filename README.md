@@ -9,6 +9,9 @@
 **开源项目 👉** 
 [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
+`创新` `极致` `专业` `视野` `格局` `规则` `人性`
+
+<!-- 此处公众号二维码、各大平台链接、作品/书籍/商业项目链接 -->
 
 <!--
 **zhanglingx/zhanglingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
