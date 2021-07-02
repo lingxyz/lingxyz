@@ -4,7 +4,7 @@
 [Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)  
 
 **架构体系 👉**
-[前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
+[大前端开发规范](https://standard.zhangling.me) | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
 **开源项目 👉** 
 [vscode-github-blog-editor]() | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
