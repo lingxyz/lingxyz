@@ -1,6 +1,6 @@
 ### :cn: Hi there 👋, I'm Ling Z 🙃
 
-> 抽离真实世界规则，用代码和文字**创造**虚拟世界
+> 洞悉真实世界法则，用代码和文字**创造**虚拟世界
 
 <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
