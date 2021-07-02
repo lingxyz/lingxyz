@@ -1,6 +1,6 @@
 ### :cn: Hi there 👋, I'm Ling Z 🙃
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 博客文章 👉
 [Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)  
