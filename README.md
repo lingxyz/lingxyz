@@ -1,12 +1,14 @@
-<h3 align="center">Hi there 👋, I'm Ling Z 🙃</h3>
+### :cn: Hi there 👋, I'm Ling Z 🙃
 
-**博客文章 👉** 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+博客文章 👉
 [Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)  
 
-**架构体系 👉**
+架构体系 👉
 [大前端开发规范](https://standard.zhangling.me) | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
-**开源项目 👉** 
+开源项目 👉
 [vscode-github-blog-editor]() | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
 `创新` `极致` `专业` `视野` `格局` `思维` `规则` `方法` `人性`
