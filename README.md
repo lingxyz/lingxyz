@@ -15,7 +15,7 @@
 
 `创新` `极致` `专业` `视野` `格局` `思维` `规则` `方法` `人性`
 
-<!-- 此处公众号二维码、各大平台链接、作品/书籍/商业项目链接 -->
+<!-- 此处公众号二维码、各大平台链接(掘金，知乎，web博客，微博)、作品/书籍/商业项目链接 -->
 
 <!--
 **zhanglingx/zhanglingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
