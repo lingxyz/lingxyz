@@ -1,16 +1,16 @@
 ### :cn: Hi there 👋, I'm Ling Z 🙃
 
-> 抽离真实世界规则，用代码和文字复制到虚拟世界
+> 抽离真实世界规则，用代码和文字**创造**虚拟世界
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-<img src="https://img.shields.io/badge/-博客文章-green?style=plastic" /> 👉
-[Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)  
+<img src="https://img.shields.io/badge/-博客文章-orange" style="margin-top: -20px"/> 👉
+[Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)
 
-<img src="https://img.shields.io/badge/-架构体系-yellow?style=flat-square" /> 👉
+<img src="https://img.shields.io/badge/-架构体系-yellow" /> 👉
 [大前端开发规范](https://standard.zhangling.me) | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
-<img src="https://img.shields.io/badge/-开源项目-red" /> 👉
+<img src="https://img.shields.io/badge/-开源项目-green" /> 👉
 [vscode-github-blog-editor]() | [前端](https://github.com/zhanglingx?tab=repositories&q=fe) | [后端](https://github.com/zhanglingx?tab=repositories&q=be)  | [大数据](https://github.com/zhanglingx?tab=repositories&q=data) | [AI](https://github.com/zhanglingx?tab=repositories&q=ai)
 
 `创新` `极致` `专业` `视野` `格局` `思维` `规则` `方法` `人性`
