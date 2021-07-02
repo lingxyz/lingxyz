@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋, I'm Ling Z 🙃</h3>
 
 **博客文章 👉** 
 [Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)  
