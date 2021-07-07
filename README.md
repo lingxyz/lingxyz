@@ -2,7 +2,7 @@
 
 > 洞悉真实世界法则，用代码和文字**创造**虚拟世界
 
-<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=zerotj&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=zl-up&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <img src="https://img.shields.io/badge/-博客文章-orange" style="margin-top: -20px"/> 👉
 [Vue](https://github.com/zhanglingx/blog/labels/Vue) | [React](https://github.com/zhanglingx/blog/labels/React)  | [HTTP](https://github.com/zhanglingx/blog/labels/http) | [AI](https://github.com/zhanglingx/blog/labels/ai) | [管理](https://github.com/zhanglingx/blog/labels/management) | [商业](https://github.com/zhanglingx/blog/labels/business)
