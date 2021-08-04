@@ -4,7 +4,7 @@
 
 <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=zhanglingme&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-📙 <img src="https://img.shields.io/badge/-博客/文集-orange"/> [开发规范](https://github.com/zhanglingme/standard)<!-- | [Vue](https://github.com/zhanglingme/blog/labels/Vue) | [React](https://github.com/zhanglingme/blog/labels/React)  | [HTTP](https://github.com/zhanglingme/blog/labels/http) | [AI](https://github.com/zhanglingme/blog/labels/ai) | [管理](https://github.com/zhanglingme/blog/labels/management) | [商业](https://github.com/zhanglingme/blog/labels/business) -->
+📙 <img src="https://img.shields.io/badge/-博客/文集-orange"/> [开发规范](https://github.com/zhanglingme/standard) | [read-cleancoder](https://github.com/zhanglingme/read-cleancoder)<!-- | [Vue](https://github.com/zhanglingme/blog/labels/Vue) | [React](https://github.com/zhanglingme/blog/labels/React)  | [HTTP](https://github.com/zhanglingme/blog/labels/http) | [AI](https://github.com/zhanglingme/blog/labels/ai) | [管理](https://github.com/zhanglingme/blog/labels/management) | [商业](https://github.com/zhanglingme/blog/labels/business) -->
 
 🏗️ <img src="https://img.shields.io/badge/-架构体系-yellow" /> [脚手架](https://github.com/zhanglingme/starter)<!-- [前端](https://github.com/zhanglingme/blog/issues/22) | [后端](https://github.com/zhanglingme/blog/issues/23)  | [大数据](https://github.com/zhanglingme?tab=repositories&q=data) | [AI](https://github.com/zhanglingme?tab=repositories&q=ai) -->
 
