@@ -6,7 +6,7 @@
 
 📙 <img src="https://img.shields.io/badge/-博客/文集-orange"/> [开发规范](https://github.com/zhanglingme/standard) | [敏捷项目管理规范](https://github.com/zhanglingme/scrum-standard) | [团队管理规范](https://github.com/zhanglingme/team-standard) | [精读笔记](https://github.com/zhanglingme/read) <!-- | [Vue](https://github.com/zhanglingme/blog/labels/Vue) | [React](https://github.com/zhanglingme/blog/labels/React)  | [HTTP](https://github.com/zhanglingme/blog/labels/http) | [AI](https://github.com/zhanglingme/blog/labels/ai) | [管理](https://github.com/zhanglingme/blog/labels/management) | [商业](https://github.com/zhanglingme/blog/labels/business) -->
 
-🏗️ <img src="https://img.shields.io/badge/-架构体系-yellow" /> [脚手架](https://github.com/zhanglingme/starter)<!-- [前端](https://github.com/zhanglingme/blog/issues/22) | [后端](https://github.com/zhanglingme/blog/issues/23)  | [大数据](https://github.com/zhanglingme?tab=repositories&q=data) | [AI](https://github.com/zhanglingme?tab=repositories&q=ai) -->
+🏗️ <img src="https://img.shields.io/badge/-架构体系-yellow" /> [脚手架](https://github.com/zhanglingme/starter) 丨 组件库 丨 监控部署/服务治理 丨 低代码<!-- [前端](https://github.com/zhanglingme/blog/issues/22) | [后端](https://github.com/zhanglingme/blog/issues/23)  | [大数据](https://github.com/zhanglingme?tab=repositories&q=data) | [AI](https://github.com/zhanglingme?tab=repositories&q=ai) -->
 
 🌱 <img src="https://img.shields.io/badge/-开源项目-green" /> [tiny-mall](https://github.com/zhanglingme/tiny-mall)<!-- [Github博客编辑器](vscode-github-blog-editor) | [Vue低代码助手](vscode-vue-block) -->
 
